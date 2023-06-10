@@ -1,0 +1,11 @@
+total 0
+drwxr-xr-x@ 3 keitabacon  staff  96 Apr  5 16:44 class
+-rw-r--r--  1 keitabacon  staff   0 Apr  7 13:39 lab-01-folders.txt
+drwxr-xr-x@ 3 keitabacon  staff  96 Apr  7 13:29 p1
+drwxr-xr-x@ 2 keitabacon  staff  64 Apr  7 13:27 p2
+drwxr-xr-x  2 keitabacon  staff  64 Apr  7 13:27 p3
+drwxr-xr-x  2 keitabacon  staff  64 Apr  7 13:27 p4
+drwxr-xr-x@ 2 keitabacon  staff  64 Apr  7 13:27 p5
+drwxr-xr-x@ 2 keitabacon  staff  64 Apr  7 13:27 p6
+drwxr-xr-x@ 2 keitabacon  staff  64 Apr  7 13:27 p7
+drwxr-xr-x@ 2 keitabacon  staff  64 Apr  7 13:27 p8
